@@ -1,4 +1,4 @@
 templateIL
 ==========
 
-Create markup from a javascript object literal. PLaceholder repo for wikipages (for now).
+Create markup from a javascript object literal. Placeholder repo for wikipages (for now).
